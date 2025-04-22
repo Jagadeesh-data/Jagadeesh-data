@@ -5,17 +5,6 @@
 
 Hi, I'm Ramavath, a passionate Business Analytics and Operations professional with a knack for transforming data into actionable insights. Currently pursuing an MBA in Business Analytics & Operations at the University of Hyderabad, I specialize in leveraging analytical tools and data-driven strategies to optimize processes and solve real-world business challenges.
 
-## About Me
-- 🎓 **Education**: 
-  - **MBA in Business Analytics & Operations** | University of Hyderabad (2023 – Present)
-  - **Bachelor of Arts (General)** | Palamuru University (2020 – 2023)
-  - 🏆 **Academic Achievement**: Secured 1st rank among 2567 students, certified by the University.
-- 💼 **Experience**: 
-  - Operations Analyst Intern at Technocolabs Software (Sep 2024 – Feb 2025)
-  - Data Analyst Intern at Technocolabs Software (Jul 2024 – Aug 2024)
-- 🌟 **Certifications**: SQL & Microsoft Excel, Power BI & Tableau (IIT Bombay), Agile Project Management, Inventory Management (HP Life)
-- 🤝 **Extracurriculars**: Operations Club Member, NSS Volunteer (NSS B Certificate)
-
 ## Skills
 I'm proficient in a range of analytical and business tools, enabling me to tackle complex datasets and deliver impactful solutions:
 
@@ -29,7 +18,7 @@ I'm proficient in a range of analytical and business tools, enabling me to tackl
 Feel free to explore my work or reach out to collaborate on exciting projects!
 
 [<img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub Portfolio" width="40" height="40"/>](https://github.com/yourusername)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/yourusername)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>](www.linkedin.com/in/jagadeesh369)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/>](https://twitter.com/yourusername)
 
 ## What I Do
